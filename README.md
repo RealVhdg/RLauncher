@@ -180,7 +180,7 @@ For larger changes, consider opening an issue first to discuss the proposed impl
 
 RLauncher is licensed under the **GNU General Public License v3.0**.
 
-See [LICENSE](LICENSE) for the full license text and [Notice.md](Notice.md) for additional project notices.
+See [LICENSE](LICENSE) for the full license text and [Notice.md](NOTICE.md) for additional project notices.
 
 ---
 
